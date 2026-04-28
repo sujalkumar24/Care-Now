@@ -34,32 +34,24 @@ Select "Order from Medihub".
 
 Add to cart, confirm delivery details, and pay online or on delivery.
 
-📦 Installation (for Developers)
-bash
-Copy
-Edit
-git clone https://github.com/your-username/care-now.git
-cd care-now
-npm install
-npm start
-Ensure backend API and Medihub integration endpoints are properly configured in .env.
-
 🛠️ Technologies Used
 Frontend: React / Vue (based on your implementation)
 
-Backend: Node.js / Django
+Backend: Node.js
 
-Video Calls: WebRTC / Twilio API
+clerk : user management 
 
-Medicine Ordering: Integrated Medihub API
+Video Calls: WebRTC 
 
-Database: MongoDB / PostgreSQL
+Medicine Ordering: Integrated Medihub API AND PAYMENT GARWAY INTEGRATION 
+
+Database: PostgreSQL
 
 📞 Support
 For technical support or issues, contact:
 
-📧 support@carenow.health
-🌐 www.carenow.health (Replace with actual URL)
+📧 support@carenowhealth.com(example)
+🌐 www.carenowhealth.com (example)
 
 ✅ License
 This project is licensed under the MIT License.
